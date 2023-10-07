@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfScreen.Net7", "WpfScreen.Net7\WpfScreen.Net7.csproj", "{2FEDA62E-EFA4-4BB8-AAFB-325F01ED9132}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "WpfScreen", "WpfScreen\WpfScreen.shproj", "{A0AB8162-E1F8-4886-A870-FD481FCD1043}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfScreen.Net48", "WpfScreen.Net48\WpfScreen.Net48.csproj", "{53E7D80A-1A29-4721-B22A-4454DE6854BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfScreen.NotSpecified", "WpfScreen.NotSpecified\WpfScreen.NotSpecified.csproj", "{1000022B-8187-40AD-917F-EF54009C6669}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FEDA62E-EFA4-4BB8-AAFB-325F01ED9132}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FEDA62E-EFA4-4BB8-AAFB-325F01ED9132}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FEDA62E-EFA4-4BB8-AAFB-325F01ED9132}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FEDA62E-EFA4-4BB8-AAFB-325F01ED9132}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53E7D80A-1A29-4721-B22A-4454DE6854BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53E7D80A-1A29-4721-B22A-4454DE6854BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53E7D80A-1A29-4721-B22A-4454DE6854BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53E7D80A-1A29-4721-B22A-4454DE6854BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1000022B-8187-40AD-917F-EF54009C6669}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1000022B-8187-40AD-917F-EF54009C6669}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1000022B-8187-40AD-917F-EF54009C6669}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1000022B-8187-40AD-917F-EF54009C6669}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4C646A6-BBEF-4890-9EFF-6CAC9CFBF84B}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		WpfScreen\WpfScreen.projitems*{1000022b-8187-40ad-917f-ef54009c6669}*SharedItemsImports = 5
+		WpfScreen\WpfScreen.projitems*{2feda62e-efa4-4bb8-aafb-325f01ed9132}*SharedItemsImports = 5
+		WpfScreen\WpfScreen.projitems*{53e7d80a-1a29-4721-b22a-4454de6854bd}*SharedItemsImports = 4
+		WpfScreen\WpfScreen.projitems*{a0ab8162-e1f8-4886-a870-fd481fcd1043}*SharedItemsImports = 13
+	EndGlobalSection
+EndGlobal
